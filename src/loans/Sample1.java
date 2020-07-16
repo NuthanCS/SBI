@@ -12,7 +12,7 @@ public class Sample1 {
 		
 		System.out.println("ram");
 		
-		System.out.println("ram");
+		System.out.println("rahim");
 
 	}
 
